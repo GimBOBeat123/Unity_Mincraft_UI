@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b823d82555200624399e628944b8c85d, type: 3}
+  m_Name: "\uC0BD_\uB808\uC2DC\uD53C"
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeData
+  pattern:
+  - {fileID: 11400000, guid: dcca145c6dd8e714e9ac6c26c095e490, type: 2}
+  - {fileID: 11400000, guid: 4fa8b8c842eaa274b923d79c27a8965a, type: 2}
+  - {fileID: 11400000, guid: 4fa8b8c842eaa274b923d79c27a8965a, type: 2}
+  width: 1
+  height: 3
+  output: {fileID: 11400000, guid: a984e3494a62fc24e82102c055a2faaa, type: 2}
